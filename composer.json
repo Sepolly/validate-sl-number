@@ -1,0 +1,19 @@
+{
+    "name": "silotech/validate-sl-number",
+    "description": "A simple function to validate a Sierra Leone Number with the present NDC's",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Silotech\\ValidateSlNumber\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Simeon Michael",
+            "email": "sepolly6@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
