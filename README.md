@@ -85,7 +85,7 @@ isPhoneNumberAValidSLNumber("070111222");     // false
 If you are developing or updating this package:
 
 ```bash
-git clone https://github.com/silotech/validate-sl-number.git
+git clone https://github.com/sepolly/validate-sl-number.git
 cd validate-sl-number
 composer install
 ```
